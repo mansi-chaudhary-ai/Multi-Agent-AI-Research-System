@@ -1,5 +1,4 @@
 
-```markdown
 # 🔬 Multi-Agent-AI-Research System
 
 ResearchMind is a powerful, multi-agent AI research system built with **Streamlit**, **LangChain**, and **Mistral AI**. It coordinates four specialized AI agents to automatically search the web, scrape deep content, draft comprehensive reports, and critique the final output.
